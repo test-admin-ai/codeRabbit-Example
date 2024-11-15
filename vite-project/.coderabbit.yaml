@@ -12,7 +12,7 @@ reviews:
   commit_status: true
   poem: true
   collapse_walkthrough: false
-  sequence_diagrams: true
+  sequence_diagrams: false
   changed_files_summary: true
   labeling_instructions: []
   path_filters: []
